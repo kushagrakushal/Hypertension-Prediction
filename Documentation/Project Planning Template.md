@@ -5,10 +5,10 @@ Project Name: Predictive Pulse: Harnessing ML for Blood Pressure Analysis
 Maximum Marks: 8 Marks
 
 Team Members:
-- Urnisa Rakshit Rakshit  (dl.ai.u4aim25003@dl.students.amrita.edu)
-- Kushagra Kanodia        (dl.ai.u4aid25077@dl.students.amrita.edu)
-- Avusali Vivek Chary     (dl.ai.u4aid24010@dl.students.amrita.edu)
-- Shreyansh Singh Singh   (dl.ai.u4aid24038@dl.students.amrita.edu)
+- Urnisa Rakshit Rakshit  
+- Kushagra Kanodia        
+- Avusali Vivek Chary    
+- Shreyansh Singh Singh  
 
 --- PRODUCT BACKLOG & SPRINT SCHEDULE (4 Marks) ---
 
